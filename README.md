@@ -8,3 +8,6 @@
 ![](https://file.garden/aIrFR9W4twp1wUOQ/Untitled120_20251002025706.png)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&label=lab+rats&color=blue)
+
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zk3kqasav3276idzo94kiu70w&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=00ffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
